@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Sweet Salamander",
+  "avatar": "iraGWaamc0yA_CdxO",
+  "preferredColor": "violet",
+  "language": "javascript.node",
+  "game": "chess",
+  "run": "node main.js"
+}
